@@ -1,13 +1,7 @@
 # Tarefa de Programação Dinâmica - Checkpoint 1
 
-**Nome:** [Seu Nome Completo]
-**RA:** [Seu RA]
-
-**Membros do Grupo (se aplicável):**
-* **Nome:** [Nome Completo do Membro 2]
-* **RA:** [RA do Membro 2]
-* **Nome:** [Nome Completo do Membro 3]
-* **RA:** [RA do Membro 3]
+**Nome:** Pedro Henrique Ribeiro Sampaio
+**RA:** 555613
 
 **Data de Entrega:** 11 de março de 2025
 
